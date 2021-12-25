@@ -1,1 +1,4 @@
 # SVGstudy
+
+![hello](SVGstudy.svg)
+
