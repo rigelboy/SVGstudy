@@ -2,8 +2,10 @@
 
 ![hello](SVGstudy.svg)
 
-![rigelstar]()
+![rigelstar](https://img.shields.io/badge/Blog-RigelStar-brightgreen?style=for-the-badge)
 
 
 
-![rigelstar]()
+
+
+![rigelstar](https://img.shields.io/badge/Blog-RigelStar-brightgreen?style=for-the-badge)
